@@ -1,7 +1,8 @@
 # conway-life
 A minimal implementation of Conway's Game of Life using py3-tkinter
 
-###Usage
+### Usage
+
 Click on a cell to toggle on or off
 
 ```<<``` revert to ten generations before
