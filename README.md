@@ -1,7 +1,8 @@
 # conway-life
 A minimal implementation of Conway's Game of Life using py3-tkinter
 
-### Examples
+###Usage
+Click on a cell to toggle on or off
 
 ```<<``` revert to ten generations before
 
@@ -12,6 +13,8 @@ A minimal implementation of Conway's Game of Life using py3-tkinter
 ```>``` advance a single generation
 
 ```>>``` skip forward ten generations
+
+### Examples
 
 ![base](https://github.com/Quiqucode/conway-life/blob/master/examples/1.PNG)
 
